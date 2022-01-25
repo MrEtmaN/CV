@@ -9,7 +9,7 @@ h1 {
   color: #00bfff; font-style: italic; text-decoration: underline;
 }
 h3 {
-  color: #87cefa;font-style: oblique; text-decoration: underline; font-weight: bold;
+  color: #87cefa;font-style: oblique; text-decoration: underline; font-weight: thick;
 }
 img {
   border-style: outset; border-color: black; border-radius: 150px 150px; border-width: medium;
