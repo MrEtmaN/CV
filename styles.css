@@ -1,0 +1,16 @@
+body {
+  background-color: #E1CCEC;
+}
+hr {
+  border-bottom-style: dotted; background-color: #E1CCEC; border-width: 0.3em 9px; border-top-style: none ; border-right-style: none; border-left-style: none; width: 3%;
+  border-color: #8a2be2;
+}
+h1 {
+  color: #00bfff; font-style: italic; text-decoration: underline;
+}
+h3 {
+  color: #87cefa;font-style: oblique; text-decoration: underline; font-weight: bold;
+}
+img {
+  border-style: outset; border-color: black; border-radius: 150px 150px; border-width: medium;
+}
